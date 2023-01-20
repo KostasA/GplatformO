@@ -9,7 +9,7 @@ import (
 
 func p(s string, i int) {
 	if i > 2 {
-		//panic(s)
+		panic(s)
 	}
 }
 
